@@ -38,8 +38,10 @@ MD5 Hashes from the book: https://raw.githubusercontent.com/brysonpayne/go-hack-
 Windows Hashes from the book: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/Windows_hashes.txt
 
 ## Chapter 8 - Web Hacking
+Link to Metasploitable2-gohack on SourceForge: https://sourceforge.net/projects/metasploitable2-gohack/files/ 
 
 ## Chapter 9 - Hacking Mobile Devices
+Link to Android VM on OSBoxes.org: https://www.osboxes.org/android-x86/
 
 ## Chapter 10 - Car Hacking and the Internet of Things
 
