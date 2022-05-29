@@ -44,6 +44,14 @@ Link to Metasploitable2-gohack on SourceForge: https://sourceforge.net/projects/
 Link to Android VM on OSBoxes.org: https://www.osboxes.org/android-x86/
 
 ## Chapter 10 - Car Hacking and the Internet of Things
+Full Car Hacking Setup Script: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/carhacking_install.sh (also in files above)
+
+Run this file on Kali Linux by downloading, then go to the Terminal and type:
+```
+cd ~/Downloads
+sh carhacking_install.sh
+```
+And you'll be ready to run all the car-hacking examples in the book and in the online course!
 
 ## Chapter 11 - Ten Things You Can Do Right Now to Protect Yourself Online 
 
