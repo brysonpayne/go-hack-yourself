@@ -1,5 +1,5 @@
 # go-hack-yourself
-Files and Links from Go Hack Yourself book and course.
+Files and Links from *Go Hack Yourself* book and course.
 
 # Go H\*ck Yourself: A Simple Introduction to Cyber Attacks and Defense 
 Buy the book at https://nostarch.com/go-hck-yourself or https://www.amazon.com/Go-Yourself-Introduction-Attacks-Defense/dp/1718502001 
