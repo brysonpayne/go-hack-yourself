@@ -35,7 +35,7 @@ My TEDx Talk: https://www.youtube.com/watch?v=s6BVSs2I7ow
 ## Chapter 7 - Stealing and Cracking Passwords
 MD5 Hashes to crack: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/MD5hashes.txt
 
-Creating Windows Users: (addingWindowsUsers.bat)
+Creating Windows Users: [addWindowsUsers.bat](addWindowsUsers.bat)
 
 Windows Hashes to crack: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/Windows_hashes.txt
 
