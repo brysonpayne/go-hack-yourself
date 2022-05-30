@@ -33,9 +33,11 @@ My TEDx Talk: https://www.youtube.com/watch?v=s6BVSs2I7ow
 ## Chapter 6 - Remote Hacking with Malware
 
 ## Chapter 7 - Stealing and Cracking Passwords
-MD5 Hashes from the book: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/MD5hashes.txt
+MD5 Hashes to crack: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/MD5hashes.txt
 
-Windows Hashes from the book: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/Windows_hashes.txt
+Creating Windows Users: (addingWindowsUsers.bat)
+
+Windows Hashes to crack: https://raw.githubusercontent.com/brysonpayne/go-hack-yourself/main/Windows_hashes.txt
 
 ## Chapter 8 - Web Hacking
 Link to the Metasploitable2 VM *Metasploitable2-gohack.ova* on SourceForge: https://sourceforge.net/projects/metasploitable2-gohack/files/ 
