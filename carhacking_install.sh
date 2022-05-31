@@ -13,5 +13,3 @@ cp  lib.o  ~/ICSim
 cd  ~/ICSim
 make clean
 make
-cd ICSim
-ls
