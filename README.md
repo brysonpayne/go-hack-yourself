@@ -10,9 +10,11 @@ Online course: Coming soon...
 Up-to-date in both the book and online course.
 
 ## Chapter 2 - Physical Access Hacks
-Here's an update to the Sticky Keys Hack that will work even on Windows 10 fully patched: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/
+Here's an update to the Sticky Keys/Accessibility Hack that will work on fullly-patched Windows 10 *AND* Windows 11 computers: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/
 
-Here's a link to an attack similar to the Sticky Keys Hack that works even on Windows 11: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/ 
+Download a Windows Boot Disk for this hack: https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise 
+
+How to create a bootable USB or DVD: https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
 
 ## Chapter 3 - Building Your Own Virtual Hacking Lab
 VirtualBox: https://www.virtualbox.org/wiki/Downloads 
