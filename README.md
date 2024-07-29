@@ -21,7 +21,7 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Kali VM: https://www.kali.org/get-kali/#kali-virtual-machines 
 
-Windows VM: [https://modern.ie/ or https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+Windows VM: https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 
 ## Chapter 4 - Online Reconnaissance and Self-Defense
 Image Exif Metadata Viewer: https://exifdata.com/ 
