@@ -12,7 +12,7 @@ Up-to-date in both the book and online course.
 ## Chapter 2 - Physical Access Hacks
 Here's an update to the Sticky Keys/Accessibility Hack that will work on fullly-patched Windows 10 *AND* Windows 11 computers: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/
 
-Download a Windows Boot Disk for this hack: https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise 
+Download a Windows Boot Disk for this hack: https://www.microsoft.com/en-us/software-download/windows11
 
 How to create a bootable USB or DVD: https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
 
@@ -21,7 +21,7 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Kali VM: https://www.kali.org/get-kali/#kali-virtual-machines 
 
-Windows VM: https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+Windows VM: https://download.microsoft.com/download/1/4/6/1468925f-d912-4436-8582-4cfdc66e18fc/WinDev2407Eval.VirtualBox.zip
 
 ## Chapter 4 - Online Reconnaissance and Self-Defense
 Image Exif Metadata Viewer: https://exifdata.com/ 
